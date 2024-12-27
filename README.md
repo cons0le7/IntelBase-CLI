@@ -5,7 +5,7 @@ cd IntelBase-CLI
 python3 intelbase.py
 ```
 # Usage
-![IMG_3505](https://github.com/user-attachments/assets/f7c48700-49bd-4415-9648-6b5d2d6af192) 
+![IMG_3507](https://github.com/user-attachments/assets/54149c21-f9fc-4b77-a408-1071348c07fe)
 
 You must first aquire an API token from [IntelBase](https://intelbase.is/dashboard/account)
 
