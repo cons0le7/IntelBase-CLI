@@ -1,5 +1,5 @@
 # Getting Started 
-You must first aquire an API token [here](https://intelbase.is/dashboard/account)
+You must first aquire an API token from [IntelBase](https://intelbase.is/dashboard/account)
 
 ```
 git clone https://github.com/cons0le7/IntelBase-CLI
