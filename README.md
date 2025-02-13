@@ -9,7 +9,7 @@ python3 intelbase.py
 
 You must first acquire an API token from [IntelBase](https://intelbase.is/dashboard/account).
 
-(This only works with paid for tokens unfortunately.)
+Note: This only works with paid for tokens.
 
 - The first time tool is ran it will ask for your API token. Once token is provided it will be stored as a file 'api.key' and retrieved automatically for authentication anytime the script is ran in the future. 
 - After initial token authentication, you have options to search email, update your api token, or exit.
